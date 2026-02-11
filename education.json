@@ -1,0 +1,21 @@
+{
+  "education": [
+    {
+      "degree": "B.Tech in Computer Science and Engineering",
+      "institution": "Uttarakhand Technical University",
+      "startYear": "2023",
+      "endYear": "2027",
+      "grade": "",
+      "relevantSubjects": [
+        "Data Structures and Algorithms",
+        "Design and Analysis of Algorithms",
+        "Compiler Design"
+      ]
+    },
+    {
+      "degree": "Senior Secondary (PCM + CS)",
+      "institution": "SGRR (CBSE)",
+      "yearOfCompletion": "2022"
+    }
+  ]
+}

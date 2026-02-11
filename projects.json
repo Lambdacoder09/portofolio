@@ -1,0 +1,127 @@
+{
+  "projects": [
+    {
+      "title": "BizManager – Pharmaceutical ERP & GST Management System",
+      "type": "Full Stack SaaS Application",
+      "description": "A specialized ERP platform for pharmaceutical retailers that automates inventory management, GST-compliant billing, financial reporting, and audit tracking.",
+      "techStack": [
+        "Next.js 15 (App Router)",
+        "TypeScript",
+        "Firebase Firestore",
+        "Firebase Authentication",
+        "Tailwind CSS",
+        "ShadCN UI"
+      ],
+      "keyFeatures": [
+        "GST-compliant billing system with CGST/SGST breakdown",
+        "Automated tax liability computation (Output - Input Tax Credit)",
+        "Inventory management with batch tracking and low-stock alerts",
+        "Procurement and supplier purchase recording",
+        "Real-time Profit & Loss analytics dashboard",
+        "Multi-tenant data isolation using Firestore security rules",
+        "Comprehensive audit logging for all transactions"
+      ],
+      "conceptsUsed": [
+        "Role-based access control",
+        "Multi-tenant architecture",
+        "Firestore security rules",
+        "Real-time data synchronization",
+        "Financial computation logic",
+        "CRUD operations"
+      ],
+      "githubLink": "https://github.com/Lambdacoder09/studio"
+    },
+    {
+      "title": "MediCloud – AI-Powered E-Healthcare Platform",
+      "type": "Full Stack Web Application",
+      "description": "A cloud-native healthcare marketplace enabling users to order medicines, book lab tests, and schedule doctor appointments with AI-powered prescription scanning.",
+      "techStack": [
+        "Next.js (App Router)",
+        "Firebase Firestore",
+        "Firebase Authentication",
+        "Firebase App Hosting",
+        "Google Gemini AI (Genkit)",
+        "Tailwind CSS",
+        "ShadCN UI"
+      ],
+      "keyFeatures": [
+        "AI-powered prescription scanner using Gemini to extract medicines from uploaded images",
+        "AI symptom checker for preliminary health suggestions",
+        "Secure user authentication and multi-step checkout system",
+        "Admin dashboard with order, product, and inventory management",
+        "Bulk product upload via CSV/Excel",
+        "Real-time order tracking and stock control"
+      ],
+      "conceptsUsed": [
+        "REST-style data handling",
+        "Role-based access (User/Admin)",
+        "CRUD operations",
+        "Environment variable management",
+        "Cloud deployment"
+      ],
+      "githubLink": "",
+      "liveLink": ""
+    },
+    {
+      "title": "TherAssist – AI-Powered Therapy Session Assistant",
+      "type": "AI-Driven Healthcare Support Application",
+      "description": "An intelligent assistant designed to support therapists during patient sessions by maintaining contextual memory, transcribing handwritten notes, and providing real-time AI-driven suggestions.",
+      "techStack": [
+        "Next.js (App Router)",
+        "TypeScript",
+        "React",
+        "Tailwind CSS",
+        "ShadCN UI",
+        "Genkit (Google AI)"
+      ],
+      "keyFeatures": [
+        "Persistent patient memory system for contextual AI responses",
+        "Real-time AI-generated conversation suggestions",
+        "Handwritten note scanning and AI transcription",
+        "Editable patient memory storage",
+        "Responsive, mobile-optimized interface",
+        "Session-based conversation management"
+      ],
+      "conceptsUsed": [
+        "Prompt engineering",
+        "Context injection for LLMs",
+        "State management",
+        "Client-side data persistence",
+        "AI-assisted workflow design"
+      ],
+      "githubLink": "https://github.com/Lambdacoder09/therapy-assistant"
+    },
+    {
+      "title": "react-zayed – Full Stack App Generator (NPM CLI)",
+      "type": "Developer Tool / CLI Application",
+      "description": "A custom NPM CLI tool that scaffolds a production-ready full-stack application using React, Vite, Express, SQLite, and Drizzle ORM.",
+      "techStack": [
+        "Node.js",
+        "JavaScript",
+        "React",
+        "Vite",
+        "Express",
+        "SQLite",
+        "Drizzle ORM",
+        "Tailwind CSS"
+      ],
+      "keyFeatures": [
+        "Custom CLI tool executable via npx",
+        "Scaffolds full-stack frontend and backend structure",
+        "Pre-configured Express API with SQLite database",
+        "Integrated React Router and Context API setup",
+        "One-command full-stack development workflow",
+        "GitHub Actions setup for package testing"
+      ],
+      "conceptsUsed": [
+        "Node.js CLI development",
+        "File system operations",
+        "Template scaffolding",
+        "Full-stack project architecture",
+        "NPM package configuration (bin, scripts)",
+        "Semantic versioning"
+      ],
+      "githubLink": "https://github.com/Lambdacoder09/react-starter"
+    }
+  ]
+}

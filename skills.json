@@ -1,0 +1,51 @@
+{
+  "skills": {
+    "languages": [
+      "C",
+      "C++",
+      "JavaScript (ES6+)",
+      "Python"
+    ],
+    "frontend": [
+      "HTML5",
+      "CSS3",
+      "Tailwind CSS",
+      "React.js",
+      "Next.js"
+    ],
+    "backend": [
+      "Node.js",
+      "Express.js",
+      "REST API Development"
+    ],
+    "databases": [
+      "MySQL",
+      "SQLite",
+      "MongoDB",
+      "Firebase Firestore (Basic)"
+    ],
+    "stateManagement": [
+      "Context API",
+      "Redux Toolkit"
+    ],
+    "deployment": [
+      "Firebase Hosting"
+    ],
+    "tools": [
+      "Git",
+      "NPM",
+      "Docker (Basic)",
+      "VS Code"
+    ],
+    "coreConcepts": [
+      "Data Structures & Algorithms",
+      "OOP",
+      "CRUD Operations",
+      "API Integration"
+    ],
+    "automation_and_ai": [
+        "Google Gemini (Genkit)",
+        "n8n (Workflow Automation, Webhooks, API Integration)"
+    ]
+  }
+}
