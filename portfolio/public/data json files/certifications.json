@@ -1,0 +1,29 @@
+{
+  "certifications": [
+    {
+      "title": "HackerRank Certified: JavaScript (Intermediate)",
+      "url": "https://www.hackerrank.com/certificates/7ea61b856d9d",
+      "platform": "HackerRank"
+    },
+    {
+      "title": "HackerRank Certified: React",
+      "url": "https://www.hackerrank.com/certificates/bc48e3e77ad7",
+      "platform": "HackerRank"
+    },
+    {
+      "title": "HackerRank Certified: Node (Intermediate)",
+      "url": "https://www.hackerrank.com/certificates/97ed1b2ebd6d",
+      "platform": "HackerRank"
+    },
+    {
+      "title": "HackerRank Certified: CSS",
+      "url": "https://www.hackerrank.com/certificates/ccad81d0dd5f",
+      "platform": "HackerRank"
+    },
+    {
+      "title": "HackerRank Certified: JavaScript (Basic)",
+      "url": "https://www.hackerrank.com/certificates/5de39ed47e80",
+      "platform": "HackerRank"
+    }
+  ]
+}

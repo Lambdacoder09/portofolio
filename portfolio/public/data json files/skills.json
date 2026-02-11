@@ -22,7 +22,8 @@
       "MySQL",
       "SQLite",
       "MongoDB",
-      "Firebase Firestore (Basic)"
+      "Firebase Firestore (Basic)",
+      "ER Diagrams"
     ],
     "stateManagement": [
       "Context API",
@@ -35,7 +36,12 @@
       "Git",
       "NPM",
       "Docker (Basic)",
-      "VS Code"
+      "Docker WSL",
+      "VS Code",
+      "Postman",
+      "Prettier",
+      "dotenv",
+      "Axios"
     ],
     "coreConcepts": [
       "Data Structures & Algorithms",
@@ -43,9 +49,18 @@
       "CRUD Operations",
       "API Integration"
     ],
-    "automation_and_ai": [
-        "Google Gemini (Genkit)",
-        "n8n (Workflow Automation, Webhooks, API Integration)"
+    "AI & Automation": [
+      "Google Gemini (Genkit)",
+      "Prompt Engineering",
+      "AI Chatbot Development",
+      "OCR-based AI Systems",
+      "n8n Workflow Automation"
+    ],
+    "Data Analysis": [
+      "Intermediate Excel",
+      "SQL",
+      "Power BI",
+      "Tableau"
     ]
   }
 }

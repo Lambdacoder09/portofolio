@@ -2,7 +2,8 @@
   "basics": {
     "fullName": "Zayed Khan",
     "title": "Full Stack Developer | Data Science Enthusiast",
-    "email": "zayedkhan.dev@gmail.com",
+    "moto":"I don’t just build systems. I also analyze business data to improve performance and profitability."
+    ,"email": "zayedkhan.dev@gmail.com",
     "phone": "+91-7017853730",
     "location": {
       "city": "Dehradun",

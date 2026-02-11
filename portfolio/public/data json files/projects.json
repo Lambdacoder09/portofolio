@@ -122,6 +122,53 @@
         "Semantic versioning"
       ],
       "githubLink": "https://github.com/Lambdacoder09/react-starter"
+    },
+    {
+      "title": "Banking Desktop App",
+      "type": "Desktop Application",
+      "description": "A desktop banking application built with Python's Tkinter library, allowing users to perform basic banking operations.",
+      "techStack": [
+        "Python",
+        "Tkinter",
+        "SQLite"
+      ],
+      "keyFeatures": [
+        "User account creation and login",
+        "View account balance",
+        "Deposit and withdraw funds",
+        "View transaction history"
+      ],
+      "conceptsUsed": [
+        "GUI development",
+        "Event-driven programming",
+        "Database interaction",
+        "CRUD operations"
+      ],
+      "githubLink": ""
+    },
+    {
+      "title": "Basic Sales Dashboard",
+      "type": "Data Visualization",
+      "description": "A sales dashboard created to visualize key performance indicators and sales data.",
+      "techStack": [
+        "Excel",
+        "SQL",
+        "Power BI",
+        "Tableau"
+      ],
+      "keyFeatures": [
+        "Interactive charts and graphs",
+        "Sales trend analysis",
+        "Product performance metrics",
+        "Regional sales data"
+      ],
+      "conceptsUsed": [
+        "Data visualization",
+        "Business intelligence",
+        "Data analysis",
+        "Dashboard design"
+      ],
+      "githubLink": ""
     }
   ]
 }

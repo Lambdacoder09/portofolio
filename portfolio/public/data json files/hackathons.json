@@ -1,0 +1,31 @@
+{
+  "hackathons": [
+    {
+      "name": "NeuraViaHacks",
+      "role": "Participant",
+      "team": ["Zayed Khan", "Friend from Canada"],
+      "date": "August 22-24, 2025",
+      "location": "Online",
+      "description": "Captured medical data to construct interactive software using AI/ML for health insights. Built a web/mobile/dashboard tool focusing on detection and personalized recommendations.",
+      "result": "Participated"
+    },
+    {
+      "name": "Gen AI Chakra – Smart Cities Hackathon",
+      "role": "Participant",
+      "team": ["Zayed Khan", "Friend from Canada"],
+      "date": "August 1–September 15, 2025",
+      "location": "Online",
+      "description": "Developed a Generative AI solution addressing urban and sustainability challenges for Smart Cities. Submitted code repository, demo video, and README.",
+      "result": "Participated"
+    },
+    {
+      "name": "Gemini 3 Hackathon",
+      "role": "Participant",
+      "team": ["Zayed Khan", "Friend from Canada"],
+      "date": "March 4, 2026",
+      "location": "Online",
+      "description": "Built an application using Google Gemini 3 API for AI-powered solutions. Submitted public demo, code repository, and demo video.",
+      "result": "Participated"
+    }
+  ]
+}

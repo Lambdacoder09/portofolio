@@ -1,0 +1,29 @@
+{
+  "achievements": [
+    {
+      "title": "Built 4 Production-Grade Full Stack Projects",
+      "description": "Designed and developed multiple full-stack applications including AI-powered healthcare platform, pharmaceutical ERP system, AI therapy assistant, and a full-stack CLI app generator."
+    },
+    {
+      "title": "AI Integration in Real-World Applications",
+      "description": "Integrated Google Gemini models using Genkit for prescription scanning, symptom checking, and AI-assisted conversation systems."
+    },
+    {
+      "title": "Full-Stack NPM CLI Tool Published",
+      "description": "Developed and structured a full-stack React + Express + SQLite project generator using a custom CLI architecture."
+    },
+    {
+      "title": "GST-Compliant Billing System Implementation",
+      "description": "Implemented dynamic GST calculation, profit & loss reporting, and input tax credit tracking in a pharmaceutical ERP system."
+    },
+    {
+      "title": "Firebase Cloud Deployment Experience",
+      "description": "Deployed production-ready Next.js applications using Firebase App Hosting with authentication and Firestore security rules."
+    },
+    {
+      "title": "Built Business Analytics Dashboards",
+      "description": "Created basic sales and GST dashboards using SQL and Power BI to analyze revenue trends, profit margins, and tax liabilities."
+    }
+    
+  ]
+}
